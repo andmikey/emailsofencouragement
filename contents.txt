@@ -4,3 +4,6 @@ That's a really great looking scrollbar!
 The fonts suit the website really well.
 I love the color scheme!
 I didn't know it was even possible to make a website that cool! 
+That loaded quick... Are you sure this site isn't cached?
+That's one nice vertically centered <div>.
+I can get everything done so quickly!
