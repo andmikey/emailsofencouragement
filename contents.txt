@@ -7,3 +7,5 @@ I didn't know it was even possible to make a website that cool!
 That loaded quick... Are you sure this site isn't cached?
 That's one nice vertically centered <div>.
 I can get everything done so quickly!
+Look at how clean that JS is!
+The page... it loads so quickly... I'm so impressed....
