@@ -9,4 +9,8 @@ Use this script to send an email to your dev with a cheerful message about how g
 To run:
 1. Install File::Slurp: ```sudo cpan File::Slurp Email::MIME Email::Sender``` (these will take a while)
 2. Fill out the files *to_email.txt*, *from_email.txt* with the email to send to and from, respectively
-3. Run the script ```perl emailer.pl``` 
+3. Run the script ```perl emailer.pl```
+
+## TODO
+
+- For a given user's GitHub, send an email of encouragement to them when they make a commit that includes frontend code. 
