@@ -4,13 +4,13 @@ Front-end work is hard; many people avoid it if they can.
 
 That's why we need to let our front-end devs know they're appreciated.
 
-Use this script to send an email to your dev with a cheerful message about how great the website's looking.
+## Script
+Use the perl script to send an email to your dev with a cheerful message about how great the website's looking.
 
 To run:
 1. Install File::Slurp: ```sudo cpan File::Slurp Email::MIME Email::Sender``` (these will take a while)
 2. Fill out the files *to_email.txt*, *from_email.txt* with the email to send to and from, respectively
 3. Run the script ```perl emailer.pl```
 
-## TODO
-
-- For a given user's GitHub, send an email of encouragement to them when they make a commit that includes frontend code. 
+## Webhook (TODO) 
+For a given GitHub repo, watch for a commit that includes front-end code, and when there is a commit, send a cheerful email to whoever made that commit. Uses GitHub's API.
